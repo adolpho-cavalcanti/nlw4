@@ -1,5 +1,4 @@
 import ExperienceBar from "./components/ExperienceBar";
-import Card from "./components/Card";
 import "./styles/global.css"
 
 function App() {
